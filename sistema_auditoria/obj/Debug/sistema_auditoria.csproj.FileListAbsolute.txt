@@ -1,0 +1,192 @@
+C:\Users\Alexis\AppData\Local\Temporary Projects\sistema_auditoria\bin\Debug\sistema_auditoria.exe.config
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.csprojResolveAssemblyReference.cache
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Form1.resources
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Properties.Resources.resources
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.csproj.GenerateResource.Cache
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.exe
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.pdb
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.exe.manifest
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.application
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Auditores.resources
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.InformaciónAdicional.resources
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Informe.resources
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.InicioSesion.resources
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Plan.resources
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Procesos.resources
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Programa.resources
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Usuarios.resources
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Prueba_datos.resources
+D:\C#\sistema_auditoria\sistema_auditoria\sistema_auditoria.exe.config
+D:\C#\sistema_auditoria\sistema_auditoria\sistema_auditoria.exe.manifest
+D:\C#\sistema_auditoria\sistema_auditoria\sistema_auditoria.application
+D:\C#\sistema_auditoria\sistema_auditoria\sistema_auditoria.exe
+D:\C#\sistema_auditoria\sistema_auditoria\sistema_auditoria.pdb
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.CrystalReports.Engine.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportSource.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.Shared.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.Windows.Forms.dll
+D:\C#\sistema_auditoria\sistema_auditoria\FlashControlV71.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\C#\sistema_auditoria\sistema_auditoria\ShockwaveFlashObjects.dll
+D:\C#\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\C#\sistema_auditoria\sistema_auditoria\stdole.dll
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Otros.Sugerencias.resources
+D:\C#\sistema_auditoria\sistema_auditoria\datos_auditoria.mdf
+D:\C#\sistema_auditoria\sistema_auditoria\datos_auditoria_log.ldf
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\RdlCompile.cache
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\RdlCompile.compiled
+D:\C#\sistema_auditoria\sistema_auditoria\Microsoft.ReportViewer.WinForms.dll
+D:\C#\sistema_auditoria\sistema_auditoria\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Splash.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.exe.config
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.exe
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.pdb
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.csprojResolveAssemblyReference.cache
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Auditores.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Form1.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.InformaciónAdicional.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Informe.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.InicioSesion.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Otros.Sugerencias.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Plan.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Procesos.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Programa.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Properties.Resources.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Prueba_datos.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Splash.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Usuarios.resources
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.csproj.GenerateResource.Cache
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\RdlCompile.cache
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\RdlCompile.compiled
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.exe.manifest
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.application
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\datos_auditoria.mdf
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\datos_auditoria_log.ldf
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.exe.manifest
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.application
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.exe
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.pdb
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.CrystalReports.Engine.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportSource.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.Shared.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.Windows.Forms.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\FlashControlV71.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\Microsoft.ReportViewer.WinForms.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\ShockwaveFlashObjects.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\stdole.dll
+D:\C#\Respaldo\Respaldo4 - copia\sistema_auditoria\sistema_auditoria\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.exe.config
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.exe
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.pdb
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.csprojResolveAssemblyReference.cache
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Auditores.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Form1.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.InformaciónAdicional.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Informe.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.InicioSesion.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Otros.Sugerencias.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Plan.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Procesos.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Programa.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Properties.Resources.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Prueba_datos.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Splash.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Usuarios.resources
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.csproj.GenerateResource.Cache
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\RdlCompile.cache
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\RdlCompile.compiled
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.exe.manifest
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.application
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\datos_auditoria.mdf
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\datos_auditoria_log.ldf
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.exe.manifest
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.application
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.exe
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.pdb
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.CrystalReports.Engine.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportSource.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.Shared.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.Windows.Forms.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\FlashControlV71.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\Microsoft.ReportViewer.WinForms.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\ShockwaveFlashObjects.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\stdole.dll
+D:\C#\Respaldo\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.exe.config
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.exe
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.pdb
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.csprojResolveAssemblyReference.cache
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Auditores.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Form1.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.InformaciónAdicional.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Informe.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.InicioSesion.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Otros.Sugerencias.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Plan.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Procesos.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Programa.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Properties.Resources.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Prueba_datos.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Splash.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.Usuarios.resources
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.csproj.GenerateResource.Cache
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\RdlCompile.cache
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\RdlCompile.compiled
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.exe.manifest
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\obj\Debug\sistema_auditoria.application
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\datos_auditoria.mdf
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\datos_auditoria_log.ldf
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.exe.manifest
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.application
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.exe
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\sistema_auditoria.pdb
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\ShockwaveFlashObjects.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\stdole.dll
+C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\es\Microsoft.ReportViewer.WinForms.resources.dll
