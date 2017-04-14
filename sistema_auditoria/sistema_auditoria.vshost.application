@@ -7,14 +7,14 @@
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="sistema_auditoria.exe.manifest" size="23074">
+    <dependentAssembly dependencyType="install" codebase="sistema_auditoria.exe.manifest" size="20466">
       <assemblyIdentity name="sistema_auditoria.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UFnzCt7BT2X673FxcYBOxXlxyrk7tlmEAdtD+bT/Wi4=</dsig:DigestValue>
+        <dsig:DigestValue>GqC7niK/76SmC+4IgY+g30lkTAnHX8aP9r5MRtsOZLk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

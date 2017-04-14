@@ -100,11 +100,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Data.xsd</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="MenuPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
     </Compile>
     <Compile Include="LLenaCombos.cs" />
     <Compile Include="LlenaDataGrid.cs" />
@@ -138,6 +138,8 @@
     <Compile Include="Plan.Designer.cs">
       <DependentUpon>Plan.cs</DependentUpon>
     </Compile>
+    <Compile Include="Presentadores\ILoginUsuario.cs" />
+    <Compile Include="Presentadores\LoginUsuario.cs" />
     <Compile Include="Procesos\Procesos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -173,8 +175,8 @@
     <EmbeddedResource Include="Auditores\Auditores.resx">
       <DependentUpon>Auditores.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Otros\InformaciónAdicional.resx">
       <DependentUpon>InformaciónAdicional.cs</DependentUpon>
@@ -351,6 +353,7 @@
     </Content>
     <None Include="Resources\audi3.JPG" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
