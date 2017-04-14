@@ -190,3 +190,6 @@ C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditor
 C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\CrystalDecisions.ReportAppServer.CommonControls.dll
 C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\stdole.dll
 C:\Users\Andrea-PC\Documents\Respaldo5 - copia\sistema_auditoria\sistema_auditoria\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\AuditoriaObesa\sistema_auditoria\sistema_auditoria.exe.config
+D:\AuditoriaObesa\sistema_auditoria\obj\Debug\sistema_auditoria.exe
+D:\AuditoriaObesa\sistema_auditoria\obj\Debug\sistema_auditoria.pdb

@@ -12,34 +12,34 @@ using System.Data.SqlClient;
 
 namespace sistema_auditoria
 {
-    public partial class Form1 : Form
+    public partial class MenuPrincipal : Form
     {
-        string cadena_conexion = Properties.Settings.Default.conexion;
-        public Form1()
+        public MenuPrincipal(string tipoUsuario)
         {
+            if (tipoUsuario.Equals("Administrador"))
+            {
+                usuariosToolStripMenuItem.Enabled = true;
+                auditoresToolStripMenuItem.Enabled = true;
+                procesToolStripMenuItem.Enabled = true;
+            }
+            else if (tipoUsuario.Equals("Usuario"))
+            {
+                usuariosToolStripMenuItem.Enabled = false;
+                auditoresToolStripMenuItem.Enabled = false;
+                procesToolStripMenuItem.Enabled = false;
+            }
             InitializeComponent();
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //SqlConnection con = new SqlConnection(cadena_conexion);
-            //try
-            //{
-            //    con.Open();
-            //    MessageBox.Show("Conexion exitosa");
-            //}
-            //catch (Exception ex)
-            //{
-            //    MessageBox.Show("Error" + ex.ToString());
-            //}
+
         }
 
         private void irToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             Auditores ir = new Auditores();
             ir.Show();
-           // Close();
-           
         }
 
         private void irToolStripMenuItem_Click(object sender, EventArgs e)

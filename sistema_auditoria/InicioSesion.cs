@@ -10,67 +10,35 @@ using System.Windows.Forms;
 using System.Data.Sql;
 using System.Data.SqlClient;
 using System.Threading;
+using sistema_auditoria.Presentadores;
 
 namespace sistema_auditoria
 {
     public partial class InicioSesion : Form
     {
         string cadena_conexion = Properties.Settings.Default.conexion;
+        ILoginUsuario presentador;
         public InicioSesion()
         {
-
+            ILoginUsuario presentador = new LoginUsuario();
             Thread t = new Thread(new ThreadStart(StartForm));
             t.Start();
             Thread.Sleep(5000);
-
             InitializeComponent();
-                t.Abort();
+            t.Abort();
         }
 
         private void btnIngresarInicioSesion_Click(object sender, EventArgs e)
         {
             if (txtContraseñaIncioSesion.Text != "" && txtUsuarioInicioSesion.Text != "")
             {
-                //int usuario;
-                string cadena = "SELECT tipo FROM Usuario WHERE usuario = '" + txtUsuarioInicioSesion.Text + "' AND contraseña= '" + txtContraseñaIncioSesion.Text + "'";
-
-                SqlConnection con = new SqlConnection(cadena_conexion);
-                con.Open();
-                SqlCommand cmd = new SqlCommand(cadena, con);
-                cmd.CommandType = CommandType.Text;
-                SqlDataReader rd = cmd.ExecuteReader();
-                if (rd.Read())
+                string tipo = presentador.ingresarUsuario(txtUsuarioInicioSesion.Text,txtContraseñaIncioSesion.Text);
+                if (!tipo.Equals(""))
                 {
-                    //usuario = Convert.ToInt32(rd["idusuario"]);
-                    string aux = Convert.ToString(rd["tipo"]);
-                    Form1 ir = new Form1();
-
-                    if (aux == "Administrador")
-                    {
-                        ir.Show();
-                        this.Hide();
-                        ir.usuariosToolStripMenuItem.Enabled = true;
-                        ir.auditoresToolStripMenuItem.Enabled = true;
-                        ir.procesToolStripMenuItem.Enabled = true;
-                    }
-                    if (aux == "Usuario")
-                    {
-                        ir.Show();
-                        this.Hide();
-                        ir.usuariosToolStripMenuItem.Enabled = false;
-                        ir.auditoresToolStripMenuItem.Enabled = false;
-                        ir.procesToolStripMenuItem.Enabled = false;
-                    }
-
+                    MenuPrincipal mp = new MenuPrincipal(tipo);
+                    this.Hide();
+                    mp.Show();
                 }
-                else
-                {
-                    MessageBox.Show("Usuario o Contraseña incorrectos!");
-                }
-                rd.Close();
-                // string cadena2 = "SELECT apellido +' '+ nombre FROM Empleado WHERE idempleado='" + usuario + "'";
-                con.Close();
-                // Close();
             }
             else
             { MessageBox.Show("No puede haber campos en blanco!"); }
