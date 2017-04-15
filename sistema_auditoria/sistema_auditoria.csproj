@@ -92,6 +92,7 @@
     <Compile Include="Auditores\Auditores.Designer.cs">
       <DependentUpon>Auditores.cs</DependentUpon>
     </Compile>
+    <Compile Include="Controladores\ControladorUsuarios.cs" />
     <Compile Include="Data.cs">
       <DependentUpon>Data.xsd</DependentUpon>
     </Compile>
@@ -108,6 +109,8 @@
     </Compile>
     <Compile Include="LLenaCombos.cs" />
     <Compile Include="LlenaDataGrid.cs" />
+    <Compile Include="Modelo\Auditor.cs" />
+    <Compile Include="Modelo\Usuario.cs" />
     <Compile Include="Otros\InformaciónAdicional.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -138,8 +141,7 @@
     <Compile Include="Plan.Designer.cs">
       <DependentUpon>Plan.cs</DependentUpon>
     </Compile>
-    <Compile Include="Presentadores\ILoginUsuario.cs" />
-    <Compile Include="Presentadores\LoginUsuario.cs" />
+    <Compile Include="Controladores\LoginUsuario.cs" />
     <Compile Include="Procesos\Procesos.cs">
       <SubType>Form</SubType>
     </Compile>

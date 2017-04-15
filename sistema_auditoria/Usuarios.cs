@@ -9,43 +9,53 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.Sql;
 using System.Data.SqlClient;
+using sistema_auditoria.Controladores;
 
 namespace sistema_auditoria
 {
     public partial class Usuarios : Form
     {
+        ControladorUsuarios controlador = new ControladorUsuarios();
         string cadena_conexion=Properties.Settings.Default.conexion;
         LLenaCombos c = new LLenaCombos();
         LlenaDataGrid dg = new LlenaDataGrid();
+        DataTable tablaUsuarios;
         public Usuarios()
         {
             InitializeComponent();
         }
 
-        private void Usuarios_Load(object sender, EventArgs e)
-            
+        private void llenarTablaUsuarios()
         {
+            DataTable tablaUsuarios = new DataTable("Usuarios");
+            tablaUsuarios.Columns.Add("Id");
+            tablaUsuarios.Columns.Add("Usuario");
+            tablaUsuarios.Columns.Add("Tipo");
+            foreach (Modelo.Usuario usu in controlador.obtenerUsuarios())
+            {
+                DataRow row = tablaUsuarios.NewRow();
+                row["Id"] = usu.Idusuario;
+                row["Usuario"] = usu.Nombreusuario;
+                row["Tipo"] = usu.Tipo;
+            }
+            dgvUsuarios.DataSource = tablaUsuarios;
+        }
 
-            c.LlenaCombosUsuario(cmbBuscarUsuario);
-            c.LlenaCombosAuditor(cmbSeleccionarAuditor);
-            dg.llenaDataGridUsuario(dataGridView1);
+        private void Usuarios_Load(object sender, EventArgs e)
+        {
+            cmbBuscarUsuario.DataSource = controlador.obtenerUsuarios(); ;
+            cmbBuscarUsuario.ValueMember = "idusuario";
+            cmbBuscarUsuario.DisplayMember = "usuario";
+
+            cmbSeleccionarAuditor.DataSource = controlador.obtenerAuditores();
+            cmbSeleccionarAuditor.ValueMember = "idauditor";
+            cmbSeleccionarAuditor.DisplayMember = "nombreCompleto";
+
             txtAliasUsuario.Text = "";
             txtContraseñaUsuario.Text = "";
 
             cmbTipoUsuario.Items.Add("Administrador");
             cmbTipoUsuario.Items.Add("Usuario");
-            
-        }
-
-        private void cmbBuscarUsuario_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            txtIDUsuario.Text = Convert.ToString(cmbBuscarUsuario.SelectedValue);
-
-        }
-
-        private void cmbSeleccionarAuditor_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            txtIDAuditorUsuarios.Text = Convert.ToString(cmbSeleccionarAuditor.SelectedValue);
         }
 
         private void btnBuscarUsuario_Click(object sender, EventArgs e)
@@ -122,7 +132,7 @@ namespace sistema_auditoria
                             MessageBox.Show("Registro almacenado correctamente !");
                         c.LlenaCombosUsuario(cmbBuscarUsuario);
                         c.LlenaCombosAuditor(cmbSeleccionarAuditor);
-                        dg.llenaDataGridUsuario(dataGridView1);
+                        dg.llenaDataGridUsuario(dgvUsuarios);
                         txtAliasUsuario.Text = "";
                         txtContraseñaUsuario.Text = "";
                     }
@@ -153,7 +163,7 @@ namespace sistema_auditoria
                         MessageBox.Show("Registro actualizado correctamente !");
                     c.LlenaCombosUsuario(cmbBuscarUsuario);
                     c.LlenaCombosAuditor(cmbSeleccionarAuditor);
-                    dg.llenaDataGridUsuario(dataGridView1);
+                    dg.llenaDataGridUsuario(dgvUsuarios);
                     txtAliasUsuario.Text = "";
                     txtContraseñaUsuario.Text = "";
                 }
@@ -184,7 +194,7 @@ namespace sistema_auditoria
 
                     c.LlenaCombosUsuario(cmbBuscarUsuario);
                     c.LlenaCombosAuditor(cmbSeleccionarAuditor);
-                    dg.llenaDataGridUsuario(dataGridView1);
+                    dg.llenaDataGridUsuario(dgvUsuarios);
                     txtAliasUsuario.Text = "";
                     txtContraseñaUsuario.Text = "";
                 }
@@ -204,7 +214,7 @@ namespace sistema_auditoria
         {
             c.LlenaCombosUsuario(cmbBuscarUsuario);
             c.LlenaCombosAuditor(cmbSeleccionarAuditor);
-            dg.llenaDataGridUsuario(dataGridView1);
+            dg.llenaDataGridUsuario(dgvUsuarios);
             lblBuscarUsuario.Visible = false;
             cmbBuscarUsuario.Visible = false;
             btnBuscarUsuario.Visible = false;
@@ -221,7 +231,7 @@ namespace sistema_auditoria
         {
             c.LlenaCombosUsuario(cmbBuscarUsuario);
             c.LlenaCombosAuditor(cmbSeleccionarAuditor);
-            dg.llenaDataGridUsuario(dataGridView1);
+            dg.llenaDataGridUsuario(dgvUsuarios);
             lblBuscarUsuario.Visible = true ;
             cmbBuscarUsuario.Visible = true;
             btnBuscarUsuario.Visible = true;
@@ -237,7 +247,7 @@ namespace sistema_auditoria
         {
             c.LlenaCombosUsuario(cmbBuscarUsuario);
             c.LlenaCombosAuditor(cmbSeleccionarAuditor);
-            dg.llenaDataGridUsuario(dataGridView1);
+            dg.llenaDataGridUsuario(dgvUsuarios);
             lblBuscarUsuario.Visible = true;
             cmbBuscarUsuario.Visible = true;
             btnBuscarUsuario.Visible = true;

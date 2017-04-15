@@ -10,17 +10,17 @@ using System.Windows.Forms;
 using System.Data.Sql;
 using System.Data.SqlClient;
 using System.Threading;
-using sistema_auditoria.Presentadores;
+using sistema_auditoria.Controladores;
 
 namespace sistema_auditoria
 {
     public partial class InicioSesion : Form
     {
         string cadena_conexion = Properties.Settings.Default.conexion;
-        ILoginUsuario presentador;
+        LoginUsuario controlador;
         public InicioSesion()
         {
-            ILoginUsuario presentador = new LoginUsuario();
+            controlador = new LoginUsuario();
             Thread t = new Thread(new ThreadStart(StartForm));
             t.Start();
             Thread.Sleep(5000);
@@ -32,7 +32,7 @@ namespace sistema_auditoria
         {
             if (txtContraseñaIncioSesion.Text != "" && txtUsuarioInicioSesion.Text != "")
             {
-                string tipo = presentador.ingresarUsuario(txtUsuarioInicioSesion.Text,txtContraseñaIncioSesion.Text);
+                string tipo = controlador.ingresarUsuario(txtUsuarioInicioSesion.Text,txtContraseñaIncioSesion.Text);
                 if (!tipo.Equals(""))
                 {
                     MenuPrincipal mp = new MenuPrincipal(tipo);

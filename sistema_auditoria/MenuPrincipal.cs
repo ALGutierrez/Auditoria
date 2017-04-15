@@ -16,6 +16,7 @@ namespace sistema_auditoria
     {
         public MenuPrincipal(string tipoUsuario)
         {
+            InitializeComponent();
             if (tipoUsuario.Equals("Administrador"))
             {
                 usuariosToolStripMenuItem.Enabled = true;
@@ -28,7 +29,6 @@ namespace sistema_auditoria
                 auditoresToolStripMenuItem.Enabled = false;
                 procesToolStripMenuItem.Enabled = false;
             }
-            InitializeComponent();
         }
 
         private void Form1_Load(object sender, EventArgs e)
