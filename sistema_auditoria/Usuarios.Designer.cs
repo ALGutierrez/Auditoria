@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.txtIDUsuario = new System.Windows.Forms.TextBox();
             this.btnBuscarUsuario = new System.Windows.Forms.Button();
             this.cmbBuscarUsuario = new System.Windows.Forms.ComboBox();
             this.lblBuscarUsuario = new System.Windows.Forms.Label();
@@ -41,7 +40,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.cmbSeleccionarAuditor = new System.Windows.Forms.ComboBox();
-            this.txtIDAuditorUsuarios = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.dgvUsuarios = new System.Windows.Forms.DataGridView();
             this.btnAceptarUsuario = new System.Windows.Forms.Button();
@@ -51,15 +49,6 @@
             this.cmbTipoUsuario = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvUsuarios)).BeginInit();
             this.SuspendLayout();
-            // 
-            // txtIDUsuario
-            // 
-            this.txtIDUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtIDUsuario.Location = new System.Drawing.Point(958, 192);
-            this.txtIDUsuario.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.txtIDUsuario.Name = "txtIDUsuario";
-            this.txtIDUsuario.Size = new System.Drawing.Size(118, 26);
-            this.txtIDUsuario.TabIndex = 43;
             // 
             // btnBuscarUsuario
             // 
@@ -77,7 +66,6 @@
             // 
             this.cmbBuscarUsuario.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbBuscarUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cmbBuscarUsuario.FormattingEnabled = true;
             this.cmbBuscarUsuario.Location = new System.Drawing.Point(278, 183);
             this.cmbBuscarUsuario.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.cmbBuscarUsuario.Name = "cmbBuscarUsuario";
@@ -206,15 +194,6 @@
             this.cmbSeleccionarAuditor.Size = new System.Drawing.Size(523, 28);
             this.cmbSeleccionarAuditor.TabIndex = 47;
             // 
-            // txtIDAuditorUsuarios
-            // 
-            this.txtIDAuditorUsuarios.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtIDAuditorUsuarios.Location = new System.Drawing.Point(958, 269);
-            this.txtIDAuditorUsuarios.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.txtIDAuditorUsuarios.Name = "txtIDAuditorUsuarios";
-            this.txtIDAuditorUsuarios.Size = new System.Drawing.Size(118, 26);
-            this.txtIDAuditorUsuarios.TabIndex = 48;
-            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -239,6 +218,7 @@
             this.dgvUsuarios.MultiSelect = false;
             this.dgvUsuarios.Name = "dgvUsuarios";
             this.dgvUsuarios.ReadOnly = true;
+            this.dgvUsuarios.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvUsuarios.Size = new System.Drawing.Size(838, 220);
             this.dgvUsuarios.TabIndex = 50;
             // 
@@ -291,7 +271,6 @@
             this.cmbTipoUsuario.Name = "cmbTipoUsuario";
             this.cmbTipoUsuario.Size = new System.Drawing.Size(258, 28);
             this.cmbTipoUsuario.TabIndex = 55;
-            this.cmbTipoUsuario.SelectedIndexChanged += new System.EventHandler(this.cmbTipoUsuario_SelectedIndexChanged);
             // 
             // Usuarios
             // 
@@ -305,12 +284,10 @@
             this.Controls.Add(this.btnAceptarUsuario);
             this.Controls.Add(this.dgvUsuarios);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.txtIDAuditorUsuarios);
             this.Controls.Add(this.cmbSeleccionarAuditor);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.txtIDUsuario);
             this.Controls.Add(this.btnBuscarUsuario);
             this.Controls.Add(this.cmbBuscarUsuario);
             this.Controls.Add(this.lblBuscarUsuario);
@@ -331,8 +308,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox txtIDUsuario;
         private System.Windows.Forms.Button btnBuscarUsuario;
         private System.Windows.Forms.ComboBox cmbBuscarUsuario;
         private System.Windows.Forms.Label lblBuscarUsuario;
@@ -345,7 +320,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.ComboBox cmbSeleccionarAuditor;
-        private System.Windows.Forms.TextBox txtIDAuditorUsuarios;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.DataGridView dgvUsuarios;
         private System.Windows.Forms.Button btnAceptarUsuario;

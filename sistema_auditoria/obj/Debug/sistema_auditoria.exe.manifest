@@ -288,14 +288,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sistema_auditoria.exe" size="881664">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sistema_auditoria.exe" size="881152">
       <assemblyIdentity name="sistema_auditoria" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/tcG7YO7mtp1/CIcjvIbX0M2rHJg1ssB9ZlCCsKzch4=</dsig:DigestValue>
+        <dsig:DigestValue>ba59MBxTi0L8u48l4ISWT/UXKKwaowK5uloFnQC9Sd4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -326,7 +326,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>fBn3UjzCalffUVDLU1ueMBDucPJN+71ayaRKLdQND7E=</dsig:DigestValue>
+      <dsig:DigestValue>LS4nsVSolgDVhcfwidlNoLLEo5uPWwcCp4Tap6srExo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="datos_auditoria_log.ldf" size="8388608" writeableType="applicationData">
@@ -335,7 +335,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>rgpTUqYDc6ej1WmdsmCNmXNOYdDK3hnbSl7xwCKUtE4=</dsig:DigestValue>
+      <dsig:DigestValue>+js6StRGaL+yRd5QL1LNCSKGKSKqu5jL9xW/Bve5qas=</dsig:DigestValue>
     </hash>
   </file>
   <file name="sistema_auditoria.exe.config" size="558">
